@@ -6,7 +6,7 @@ Hey, I'm Douglas Ghiraldello! 👋
 
 🚀 In search of the best version of myself
 
-- Find me elsewhere:
-📸 <a href="https://instagram.com/lucasmontano" rel="nofollow">Instagram</a> <br>
-💼 <a href="https://www.linkedin.com/in/lucasmontano/" rel="nofollow">LinkedIn</a>
+- Find me elsewhere:                                                                                                                                                          
+📸 <a href="https://instagram.com/rdouggg" rel="nofollow">Instagram</a> <br>
+💼 <a href="https://www.linkedin.com/in/douglasgrodrigues/" rel="nofollow">LinkedIn</a>
 
