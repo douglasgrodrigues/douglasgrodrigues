@@ -1,6 +1,6 @@
 Hey, I'm Douglas Ghiraldello! 👋
 
-- Workink on @Nelogica sistema de Software
+- Working on @Nelogica sistema de Software
 - Future Android Developer
 - Born in Porto Alegre, Brazil
 
