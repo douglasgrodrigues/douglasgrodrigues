@@ -1,9 +1,11 @@
-## Hey, I'm Douglas Ghiraldello! 👋
+## Douglas Ghiraldello Rodrigues! 👋
 
-- Working on @Nelogica sistema de Software
-- Born in Porto Alegre, Brazil
+Desenvolvedor Front End na @TPrime Tecnologia com foco na criação de aplicações Web para integrar ao ERP Protheus.
 
-🚀 In search of the best version of myself
+- Working on @TPrime Tecnologia
+- Nascido em Porto Alegre, Brazil
+
+🚀 Você é criador do seu próprio mérito.
 
 ## Tecnologias 📌
 
@@ -11,6 +13,10 @@
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" height="40" width="40" src="https://img.icons8.com/color/50/000000/bootstrap.png">
+<img align="center" height="36" width="36" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png">
+   
+
 </div>
 
 <hr/>
