@@ -1,8 +1,7 @@
 ## Douglas Ghiraldello Rodrigues! 👋
 
-Desenvolvedor Front End na @TPrime Tecnologia com foco na criação de aplicações Web para integrar ao ERP Protheus.
+Desenvolvedor Front End no Olist.
 
-- Working on @TPrime Tecnologia
 - Nascido em Porto Alegre, Brazil
 
 🚀 Você é criador do seu próprio mérito.
